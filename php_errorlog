@@ -1,0 +1,1 @@
+[22-Jul-2022 12:14:46 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/customer/www/madinaprojects.com/public_html/public/index.php' (include_path='.:/usr/local/php74/pear') in /home/customer/www/madinaprojects.com/public_html/server.php on line 21
